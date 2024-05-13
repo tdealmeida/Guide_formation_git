@@ -15,9 +15,4 @@ Pour que les personnes voient les modif dans r stuidio, il faut pull dans la bon
 Si le chef est content, il peut merge et accepter les mdifications de la branche secondaire sur la branche principal si cela ne crée pas de conflit (cela ce fait sur Github).
 
 
-<<<<<<< HEAD
-=======
-Thomas le dieu je suis vraiment trop fort jefkmsqjb
 
-Thomas est un ....
->>>>>>> 968f9864170905bf5c5e4d5aef5cd4f4a3bd456d
