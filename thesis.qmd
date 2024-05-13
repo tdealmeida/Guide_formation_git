@@ -6,7 +6,8 @@ editor: visual
 
 ## Formation Git
 
-Atelier avec Louis & Thomas :
+
+## Atelier avec Louis & Thomas
 Création d'un répertoire Github qui héberge le projet (le chef). Ensuite, les deux personnes clonent le projet dans R studio en créant un nouveau projet version control (coller le lien hppts). Donner accès au collaborateur dans les settings du projet sur Github. 
 Le chef fais des modifs dans la branche principal (main). L'autre doit crée une nouvelle branche pour faire les modfis. 
 Une fois la modifcation faite, il faut check les fichiers dans staged puis cliquer sur commit et push (ne pas oublier de bien commenter le commit). 
@@ -14,6 +15,11 @@ Pour que les personnes voient les modif dans r stuidio, il faut pull dans la bon
 
 Si le chef est content, il peut merge et accepter les mdifications de la branche secondaire sur la branche principal si cela ne crée pas de conflit (cela ce fait sur Github).
 
+Si tu veux pull les nouveaux fichiers de la branche principal dans ta branche secondaire, il faut faire un merge de la branche principal dans la branche secondaire (dans la meme idée que le chef merge la branche secondaire sur la branche principal). 
+
 Si Louis n'est pas sur de commit et souhaite changer de branche, il peut mettre en attente avec dans le terminal : git stash (pour mettre en attente) et git stash apply (pour récupérer les modifs).
+
+Pour s'aider, il y a les tutos : https://happygitwithr.com/existing-github-first
+
 
 
