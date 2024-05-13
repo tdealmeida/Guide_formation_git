@@ -6,6 +6,6 @@ editor: visual
 
 ## Quarto
 
-Thomas le dieu 
-je suis vraiment trop fort
-jefkmsqjb
+Thomas le dieu je suis vraiment trop fort jefkmsqjb
+
+Thomas est un ....
